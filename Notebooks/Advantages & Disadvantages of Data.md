@@ -1,0 +1,4 @@
+|   |  311 Data |Flood Maps   | Rainfall Data  | Flood Sense  |
+|---|---|---|---|---|
+| Advantages  | - The 311 data contains multiple variables of information, the location, date, complaint type, and source of flooding. Thus because they show the dates, you are able to see if the areas that previously flooded still report cases of flooding and if they are a high risk area for flooding.  | - The flood Maps depict both moderate and extreme floods, and with a more visual map you are able to see the extent to which the flood spreads and what areas are affected more. | - Greater time period of data |   |
+| Disadvantages  | - Information reported is anecdotal and sometimes data can go unreported or misrepresented. Not all people that are affected may report the flooding so it becomes uncertain if the area floods. In addition there is only data from the the past 11 years.| - Not all areas are included in the analysis (Demonstrated in the Map Legend)  |   |   |
