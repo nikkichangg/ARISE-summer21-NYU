@@ -2,27 +2,33 @@
 NYU Tandon's ARISE (Applied Research Innovation in Science & Engineering) program is a 7 week summer program that allows students to work with research labs. The Environmental Engineering and Water Treatment Lab (FloodSense) aims to provide access to real-time information and data on flooding to aid city agencies and residents.  
 
 
-Table of Contents
+**Table of Contents**
 - [Introduction](#Introduction)
-- [Case Studies](#Case_Studies)
-  - [Marble Hill](#Marble_Hill)
-  -
-- [Current Mitigation Efforts](#Current_Mitigation_Efforts)
-  - [Low Impact Development (LID) Structures](#Low_Impact_Development_Structures)
-  - [Storm Water Management Systems](#Storm_Water_Management_Systems)
-  - [Effectiveness of Mitigation Methods](Effectiveness_of_Mitigation_Methods)
-    - [Storm water management systems](#Storm_water_management_systems)
-    - [LID Structures](LID_Structures)
+- [Communities Impacted by Urban Flooding](#Communities-Impacted-by-Urban-Flooding)
+  - [Marble Hill](#Marble-Hill)
+  - [Chelsea](#Chelsea)
+- [Current Mitigation Efforts](#Current-Mitigation-Efforts)
+  - [Low Impact Development (LID) Structures](#Low-Impact-Development-Structures)
+  - [Storm Water Management Systems](#Storm-Water-Management-Systems)
+  - [Effectiveness of Mitigation Methods](Effectiveness-of-Mitigation-Methods)
+    - [Storm water management systems](#Storm-water-management-systems)
+    - [LID Structures](LID-Structures)
 
 ## Introduction
 
-## Case Studies
+As sea levels rise and weather patterns change, flooding will become a more frequent occurence. Flooding in New York City has increased in part due to its coastal location and the humidity that results from it and ultimately how the sewer systems can haldle these changes. Roughly 70% of New York City utilizes a combined sewer system where both stormwater/runoff and regular sewage are combined to lead to the same wastewater treatment facility together.
 
-Flooding in New York City has increased in part due to climate change which bring about greater
+## Communities Impacted by Urban Flooding
+
+This case study explores the different neighborhoods in New York City and the lives of those who live in flood prone areas in order to harbor a better understanding of the the extent to which urban flooding has impacted them. Neighborhoods like Marble Hill and Chelsea are notorious for having some of the most frequent flooding in the city.  
 
 #### Marble Hill
 
+Marble Hill, located above the Harlem River as the most nothernmost neighborhood of Manhattan, is the most heavily flooded neighborhood in New York City. It's geographical history as a former wetland contributes to its vulnerability to flooding. The Eastern side of Broadway near the Matble Hill Houses are one of the most affected areas in Marble Hill–the streets often accumulating with seweage contaminated rain/storm water. 
 
+#### Chelsea
+
+Chelsea, also a neighborhood in Manhattan, lies off the Hudson River in midtown west Manhattan in the art district. 
 ## Current Mitigation Efforts for Urban Flooding
 
 Pavement and other urban development structures minimize the natural vegetation cover (like grass) that would have infiltrated into soil rather than flow into sewers, where chances of flooding are increased. Efforts to prevent urban flooding try to increase the porosity of surfaces in the city to mitigate runoff as well as introducing new sewer systems to better handle the extremity of water.
